@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD candidate in CVLab at South China University of Technology. My advisor is Prof. Qiong Liu. Before that, I obtained my B.E. degree at School of Software Engineering, South China University of Technology in 2015.
+I am a 5th year PhD candidate at South China University of Technology. My advisor is Prof. Qiong Liu. Before that, I obtained my B.E. degree at South China University of Technology in 2015.
 
 I am interested in computer vision, deep learning, and machine learning. More specifically,
 
@@ -16,4 +16,4 @@ I am interested in computer vision, deep learning, and machine learning. More sp
 * Auto Machine Learning
 * Crowd Counting
 
-Now, I am visiting Vision and Learning Lab at University of California, Merced, under the supervision of Prof. Ming-Hsuan Yang. 
+Now, I am visiting [Vision and Learning Lab](http://vllab.ucmerced.edu/) at University of California, Merced, under the supervision of Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). 
