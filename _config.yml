@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingkai's Website"
+title                    : "Jingkai's Home Page"
 title_separator          : "-"
 name                     : &name "Jingkai Zhou"
 description              : &description "Ph.D candidate at South China University of Technology. Mainly interested in Object Detection."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jingkai Zhou"
   avatar           : "https://github.com/theFoxofSky/thefoxofsky.github.io/blob/master/Head.jpg?raw=true"
-  bio              : "Ph.D candidate at South China University of Technology.\\Mainly interested in Object Detection."
+  bio              : "Ph.D candidate at South China University of Technology.\n Mainly interested in Object Detection."
   location         : "Merced, CA, USA"
   employer         :
   pubmed           :
