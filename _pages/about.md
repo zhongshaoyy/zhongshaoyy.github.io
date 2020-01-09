@@ -12,10 +12,8 @@ I am a 5th year PhD candidate in CVLab at South China University of Technology. 
 
 I am interested in computer vision, deep learning, and machine learning. More specifically,
 
-Object Detection
-
-Auto Machine Learning
-
-Crowd Counting
+* Object Detection
+* Auto Machine Learning
+* Crowd Counting
 
 Now, I am visiting Vision and Learning Lab at University of California, Merced, under the supervision of Prof. Ming-Hsuan Yang. 
