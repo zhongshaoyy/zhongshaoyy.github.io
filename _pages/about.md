@@ -31,17 +31,14 @@ Here is my [CV]().
 <table style="border: none; border-collapse: collapse;" border="0"> 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
 <img src="" width="800"/>
 </td>
-
 <td style="border-collapse: collapse; border: none;">
 Scale adaptive image cropping for UAV object detection. Neurocomputing, 2019.
-  
+<br>
 <b>Jingkai Zhou</b>, Chi-Man Vong, Qiong Liu*, Zhenyu Wang. 
 <br>
-
 <img src="http://thefoxofsky.github.io/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://arxiv.org/abs/1909.11895">paper</a></span>
 <br>
