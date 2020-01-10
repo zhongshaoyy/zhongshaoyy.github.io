@@ -11,12 +11,11 @@ redirect_from:
 I am a 5th year PhD candidate at South China University of Technology. My advisor is Prof. Qiong Liu. Before that, I obtained my B.E. degree in School of Software Engineering, South China University of Technology in 2015.
 
 I am interested in computer vision, deep learning, and machine learning. More specifically,
-
 - Object Detection
 - Auto Machine Learning
 - Crowd Counting
 
-Here is my [CV]().
+Here is my [CV](http://thefoxofsky.github.io/files/cv.pdf).
 
 ## News
 
