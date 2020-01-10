@@ -16,7 +16,11 @@ I am interested in computer vision, deep learning, and machine learning. More sp
 * Auto Machine Learning
 * Crowd Counting
 
-Here is my CV.
+Here is my [CV]().
 
 ##News
-Now, I am visiting [Vision and Learning Lab](http://vllab.ucmerced.edu/) at University of California, Merced, under the supervision of Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). 
+
+* **2019.10:** Visit [Vision and Learning Lab](http://vllab.ucmerced.edu/) at UC Merced, under the supervision of Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). 
+* **2018.10:** Get National Scholarship for Ph.D. Students from Chinese Ministry of Education.
+* **2018.9:** Win Honorable Mention in VisDrones Challenge 2018. 
+
