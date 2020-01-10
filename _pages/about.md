@@ -45,8 +45,6 @@ Scale adaptive image cropping for UAV object detection. Neurocomputing, 2019.
 </td>
 </tr>
 
-<br>
-
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="http://thefoxofsky.github.io/images/dataset.jpg" width="800"/>
@@ -62,8 +60,6 @@ Zhewei Xu, Jiajun Zhuang, Qiong Liu*, <b>Jingkai Zhou</b>, Shaowu Peng.
 <br>
 </td>
 </tr>
-
-<br>
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
