@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingkai's Home Page"
+title                    : "Guanzhong's Home Page"
 title_separator          : "-"
-name                     : &name "Jingkai Zhou"
-description              : &description "Ph.D candidate at South China University of Technology. Mainly interested in Object Detection."
+name                     : &name "Guanzhong Tian"
+description              : &description "Ph.D candidate at Zhejiang University . Mainly interested in Computer Vision and Neural Network Compression."
 url                      : https://thefoxofsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thefoxofsky/thefoxofsky.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingkai Zhou"
-  avatar           : "http://thefoxofsky.github.io/images/me.jpg"
+  name             : "Guanzhong Tian"
+  avatar           : "http://thefoxofsky.github.io/images/Guanzhong Tian.png"
   bio              : "The road ahead will be long and our climb will be steep."
   location         : "Merced, CA, USA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=80d4v4kAAAAJ"
+  googlescholar    : 
   email            : "fs.jingkaizhou@gmail.com"
   researchgate     :
   uri              :
